@@ -1,5 +1,13 @@
-# 👋 Hi there, I'm Prasadi Durage!
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prasadi%20Durage&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
+👋 Hi there, I'm Prasadi Durage!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Web+Development+Enthusiast+%F0%9F%8C%9F;Always+Learning+%F0%9F%93%9A;Code+Artist+%F0%9F%8E%A8" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF">
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Web+Development+Lover" alt="Typing SVG" />
 </div>
