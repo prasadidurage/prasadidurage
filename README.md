@@ -23,7 +23,7 @@
       
       - 🔭 **Current Focus:** Microservices & Enterprise Architecture
       - 💻 **Core Mastery:** Java, Spring Boot, & React.js
-      - 🛠️ **Methodology:** Agile, Test-Driven Development (TDD)
+      - 🛠️ **Methodology:** Agile & Test-Driven Development (TDD)
       - ⚡ **Fun Fact:** I treat every line of code as a work of art.
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -34,15 +34,29 @@
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Tools** |
+| **Frontend** | **Backend** | **Tools & Cloud** |
 | :--- | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma&theme=dark" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws&theme=dark" /> |
 
 </div>
+
+---
+
+## 🏆 Achievements & GitHub Trophies
+*These trophies represent my consistency and various milestones reached within the Open Source community.*
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prasadidurage&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="Trophies" />
+</div>
+
+> **Trophy Highlights:**
+> - 🥇 **Commit Master:** Awarded for consistent code contributions across multiple repositories.
+> - ⭐ **Star Collector:** Recognizes repositories that have provided value to the developer community.
+> - 🗓️ **Long Term Streak:** Reflects dedication to daily coding and problem-solving.
 
 ---
 
@@ -59,17 +73,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasadidurage&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="Trophies" />
-</div>
+## 🐍 My Contribution Journey
+*Visualizing my growth and coding activity. I strive to keep the "green wall" growing as I tackle new challenges daily.*
 
----
-
-## 🐍 Contribution Journey
 <div align="center">
   <img src="https://raw.githubusercontent.com/prasadidurage/prasadidurage/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
+
+### 📈 Journey Statistics & Milestones
+* **Daily Consistency:** Maintaining a high streak of commits to ensure project momentum.
+* **Open Source Impact:** Actively contributing to public projects and optimizing documentation.
+* **Code Diversity:** Expertise ranging from **Frontend UI components** to **Scalable Backend Logic**.
 
 ---
 
@@ -93,5 +107,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
   
   <br /><br />
-  <h3> <i>"Crafting the future, one commit at a time."</i> </h3>
+  <h3> <i>"Crafting the digital future, one commit at a time."</i> </h3>
 </div>
