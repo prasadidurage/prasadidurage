@@ -1,157 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prasadi%20Durage&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</div>
-👋 Hi there, I'm Prasadi Durage!
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Web+Development+Enthusiast+%F0%9F%8C%9F;Always+Learning+%F0%9F%93%9A;Code+Artist+%F0%9F%8E%A8" alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF">
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Web+Development+Lover" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=220&section=header&text=Prasadi%20Durage&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Web+Development+Enthusiast+%F0%9F%8C%9F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=prasadidurage&label=PROFILE+VIEWS&color=FF6B9D&style=flat-square" alt="Views" />
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-```javascript
-const prasadi = {
-    name: "Prasadi Durage",
-    location: "Sri Lanka 🇱🇰",
-    role: "Full Stack Developer",
-    currentFocus: "Full Stack Development",
-    passion: "Creating beautiful and functional web experiences",
-    askMeAbout: ["Java", "JavaScript", "CSS", "Web Development", "Problem Solving"],
-    motto: "Code with passion, debug with patience"
-};
-
-console.log("Welcome to my coding journey! 🌟");
-```
-
----
-
-## 🎯 Current Status
-
-<table>
-<tr>
-<td>
-
-🌱 **Currently Learning:** Advanced Full Stack Technologies  
-👨‍💻 **Focus:** Building scalable web applications  
-💬 **Ask me about:** Java, JavaScript, CSS, Web Development, Problem Solving  
-📫 **Reach me:** ps7032962@gmail.com  
-⚡ **Fun fact:** I love turning complex problems into elegant solutions!  
-🎨 **Passion:** Creating intuitive user experiences
-
-</td>
-<td>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3>👋 Hi there! I'm Prasadi</h3>
+      <p>මම <b>ශ්‍රී ලංකාවේ 🇱🇰</b> සිටින උද්‍යෝගිමත් <b>Full Stack Developer</b> කෙනෙක්. තාක්ෂණය සහ නිර්මාණශීලිත්වය එකතු කරලා අලුත් දේවල් නිර්මාණය කරන්න මම ගොඩක් කැමතියි.</p>
+      
+      - 🔭 **Current Focus:** Building scalable web applications.
+      - 💻 **Tech Stack:** Specialized in Java & JavaScript.
+      - 💬 **Ask me about:** Java, React, Web Design.
+      - ⚡ **Motto:** *"Code with passion, debug with patience"*
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzN0bmV4ZzRyeG13ZzRyeG13ZzRyeG13ZzRyeG13JnB0PWF2YXRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 20px;" alt="Coding GIF">
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ My Tech Arsenal
 
-### **Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,python,c&theme=dark" />
-</div>
 
-### **Frameworks & Libraries**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,bootstrap,jquery&theme=dark" />
-</div>
+### **Languages & Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,figma&theme=dark" />
 
-### **Databases**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql&theme=dark" />
-</div>
+### **Backend & Databases**
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb,postgresql,firebase&theme=dark" />
 
-### **Tools & Technologies**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,webpack,babel&theme=dark" />
+### **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker,aws&theme=dark" />
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Universe
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasadidurage&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasadidurage&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadidurage&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prasadidurage&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FFD700&currStreakLabel=FF6B9D" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prasadidurage&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFD700" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasadidurage&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prasadidurage&theme=radical&no-frame=true&no-bg=true&column=6" alt="Trophies" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
+## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadidurage&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFD700" alt="Contribution Graph" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🎨 **UI Playground**
-*Mini projects showcasing layouts, animations, and components*
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-### 🧠 **Algo Lab**
-*Hands-on DSA implementations in Java & JavaScript*
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Algorithms-FF6B9D?style=flat-square&logo=github&logoColor=white" />
-
-### ☁️ **Cloud Notes**
-*Simple Firebase CRUD app with authentication and hosting*
-<br>
-<img src="https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-
-</div>
-
-<div align="center">
-  <em>Pin a few repos so they show up here on your profile!</em>
-</div>
-
----
-
-## 💡 What I'm Working On
-
-<div align="center">
-
-| 🔧 **Current Projects** | 📚 **Learning** | 🎯 **Goals** |
-|-------------------------|-----------------|--------------|
-| Full Stack Web Apps | Advanced React Patterns | Master System Design |
-| Firebase Integration | Cloud Technologies | Build Scalable Apps |
-| UI/UX Improvements | Modern CSS Techniques | Contribute to Open Source |
-
+  <img src="https://raw.githubusercontent.com/prasadidurage/prasadidurage/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
@@ -160,56 +79,21 @@ console.log("Welcome to my coding journey! 🌟");
 
 <div align="center">
   <a href="https://linkedin.com/in/prasadidurage">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ps7032962@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/prasadidurage">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/prasadidurage">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
----
-
-## 💡 Quote of the Day
+<br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🐍 Watch my Contributions Graph get eaten by the snake!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prasadidurage/prasadidurage/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
   
-### **"Code with passion, debug with patience"** ✨
-
-*Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!*
-
-<img src="https://komarev.com/ghpvc/?username=prasadidurage&label=Profile%20Views&color=ff6b9d&style=flat-square" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer" />
 </div>
